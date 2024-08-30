@@ -3,3 +3,4 @@ beautifulsoup4
 lxml
 r-useragent
 pytz
+html2text==2024.2.26
