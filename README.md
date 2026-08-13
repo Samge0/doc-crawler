@@ -1,6 +1,9 @@
 ## 下载文档并转为md的脚本
 为了将一些页面文档内容下载并转为markdown文件&上传到RAG知识库中查询，写一个脚本实现。
 
+
+> 🌐 **[在线宣传页](https://samge0.github.io/doc-crawler/)** — 可视化了解功能特性与工作流程
+
 ### 创建env环境
 ```shell
 conda create -n doc-crawler python=3.10.13 -y
